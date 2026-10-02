@@ -5,3 +5,5 @@ GRUB_TIMEOUT_STYLE=menu этот параметр отвечает за стил
 <img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/4167d162-bdd6-42ee-a17b-6a2637a056ae" />
 <img width="1916" height="824" alt="image" src="https://github.com/user-attachments/assets/d41055c0-94e8-4b48-b9e3-811eb1702994" />
 2) Если бы мы забыли выполнить update-grub, то файл изменится, но GRUB его не считает и продолжит загружаться при стандартных значениях.
+
+(Cистема загрузилась полностью исправно, ошибок не было.)
