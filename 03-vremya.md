@@ -1,6 +1,9 @@
-1) <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/cf347ba7-688c-454d-952d-d44cb2aca447" />
+1)
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/cf347ba7-688c-454d-952d-d44cb2aca447" />
 
-Всего загрузка заняла 12.232с, из них ядро 3,758с, а пользовательское пространство 8,473с.
+Всего загрузка заняла 12.232с, из них:
+Ядро 3,758с
+А пользовательское пространство 8,473с.
 
 2) <img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/a3a383f6-e42f-4878-b238-a406c7e9a05f" />
 Три самые медленные службы это:
