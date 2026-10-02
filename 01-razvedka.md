@@ -1,5 +1,6 @@
 1) Моя виртуальная машина загружается в режиме BIOS, определил это по команде ls /sys/firmware/ef так как файл в директории не был обнаружен это значит ,что  UEFI нету и загрузка происходит через BIOS.
 <img width="1919" height="841" alt="image" src="https://github.com/user-attachments/assets/9c51c69c-eb88-4176-b5be-084a70eeee02" />
+
 2) (lsblk-f) выводит список всех блочных устройств в системе.
 <img width="1918" height="841" alt="image" src="https://github.com/user-attachments/assets/58f8b57e-6a7c-48d8-93f2-fcf4b44c1166" />
 sda - это основной жесткий диск виртуальной машины.
